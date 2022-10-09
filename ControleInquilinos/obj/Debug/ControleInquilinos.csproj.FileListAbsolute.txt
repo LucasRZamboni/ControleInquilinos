@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.DEV.resources
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.Login.resources
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.Properties.Resources.resources
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\bin\Debug\ControleInquilinos.exe.config
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\bin\Debug\ControleInquilinos.exe
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\bin\Debug\ControleInquilinos.pdb
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.exe
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.pdb
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.Imoveis.resources
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.Inquilinos.resources
+C:\Users\lucas\Desktop\Projetos\ControleInquilinos\ControleInquilinos\obj\Debug\ControleInquilinos.Menu.resources
